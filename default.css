@@ -1,0 +1,13 @@
+/* CSS Document */
+body{
+	font-family:Verdana, Geneva, sans-serif;
+}
+.labels{
+	background-color:#09C;
+	font-weight:bold;
+	font-size:1em;
+	color:#fff;
+}
+tr{
+	vertical-align:middle;
+}
